@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 ## What is the Web Experience Toolkit?
-Test added By Jovo
+Test deleted By Jovo
 * Collaborative open source project led by the Government of Canada
 * [Award-winning](https://github.com/wet-boew/wet-boew/wiki/Accolades#wiki-Awards) code library for building innovative websites that are:
  * [Accessible](#accessibility), [usable](#usability) and [interoperable](#interoperability)
